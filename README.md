@@ -2,6 +2,10 @@
 
 Python Wrapper for DouyuTV APIs, including support for accessing ChatRoom, e.g. DanMu/弹幕.
 
+# Installation
+
+	pip install douyu
+
 # Example Usage
 
 	from douyu.chat.room import ChatRoom
