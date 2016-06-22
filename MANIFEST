@@ -4,3 +4,8 @@ setup.py
 douyu/__init__.py
 douyu/chat/__init__.py
 douyu/chat/room.py
+douyu/chat/network/__init__.py
+douyu/chat/network/client.py
+douyu/chat/network/message.py
+douyu/chat/network/packet.py
+douyu/chat/network/utils.py
